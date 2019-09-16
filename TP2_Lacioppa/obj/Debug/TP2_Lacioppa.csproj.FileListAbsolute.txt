@@ -1,0 +1,48 @@
+C:\Users\Ignacio\Desktop\FACULTAD 2019\PROG III 2019\TP2_Lacioppa\TP2_Lacioppa\bin\Debug\TP2_Lacioppa.exe.config
+C:\Users\Ignacio\Desktop\FACULTAD 2019\PROG III 2019\TP2_Lacioppa\TP2_Lacioppa\bin\Debug\TP2_Lacioppa.exe
+C:\Users\Ignacio\Desktop\FACULTAD 2019\PROG III 2019\TP2_Lacioppa\TP2_Lacioppa\bin\Debug\TP2_Lacioppa.pdb
+C:\Users\Ignacio\Desktop\FACULTAD 2019\PROG III 2019\TP2_Lacioppa\TP2_Lacioppa\obj\Debug\TP2_Lacioppa.csprojAssemblyReference.cache
+C:\Users\Ignacio\Desktop\FACULTAD 2019\PROG III 2019\TP2_Lacioppa\TP2_Lacioppa\obj\Debug\TP2_Lacioppa.AgregarArticuloNuevo.resources
+C:\Users\Ignacio\Desktop\FACULTAD 2019\PROG III 2019\TP2_Lacioppa\TP2_Lacioppa\obj\Debug\TP2_Lacioppa.frmMenuPrincipal.resources
+C:\Users\Ignacio\Desktop\FACULTAD 2019\PROG III 2019\TP2_Lacioppa\TP2_Lacioppa\obj\Debug\TP2_Lacioppa.Properties.Resources.resources
+C:\Users\Ignacio\Desktop\FACULTAD 2019\PROG III 2019\TP2_Lacioppa\TP2_Lacioppa\obj\Debug\TP2_Lacioppa.csproj.GenerateResource.cache
+C:\Users\Ignacio\Desktop\FACULTAD 2019\PROG III 2019\TP2_Lacioppa\TP2_Lacioppa\obj\Debug\TP2_Lacioppa.csproj.CoreCompileInputs.cache
+C:\Users\Ignacio\Desktop\FACULTAD 2019\PROG III 2019\TP2_Lacioppa\TP2_Lacioppa\obj\Debug\TP2_Lacioppa.exe
+C:\Users\Ignacio\Desktop\FACULTAD 2019\PROG III 2019\TP2_Lacioppa\TP2_Lacioppa\obj\Debug\TP2_Lacioppa.pdb
+C:\Users\Ignacio\Desktop\FACULTAD 2019\PROG III 2019\TP2_Lacioppa\TP2_Lacioppa\obj\Debug\TP2_Lacioppa.MostrarTodosArticulos.resources
+C:\Users\Ignacio\Desktop\FACULTAD 2019\PROG III 2019\TP2_Lacioppa\TP2_Lacioppa\obj\Debug\TP2_Lacioppa.frmEliminarArticulo.resources
+C:\Users\Ignacio\Desktop\FACULTAD 2019\PROG III 2019\TP2_Lacioppa\TP2_Lacioppa\obj\Debug\TP2_Lacioppa.frmBuscarArticulo.resources
+C:\Users\Ignacio\Desktop\FACULTAD 2019\PROG III 2019\TP2_Lacioppa\TP2_Lacioppa\obj\Debug\TP2_Lacioppa.frmBuscarnombre.resources
+C:\Users\Ignacio\Desktop\FACULTAD 2019\PROG III 2019\TP2_Lacioppa\TP2_Lacioppa\obj\Debug\TP2_Lacioppa.frmModificarArticulo.resources
+C:\Users\Administrador\Desktop\TP2_Lacioppa-20190913T210742Z-001\TP2_Lacioppa\TP2_Lacioppa\bin\Debug\TP2_Lacioppa.exe.config
+C:\Users\Administrador\Desktop\TP2_Lacioppa-20190913T210742Z-001\TP2_Lacioppa\TP2_Lacioppa\bin\Debug\TP2_Lacioppa.exe
+C:\Users\Administrador\Desktop\TP2_Lacioppa-20190913T210742Z-001\TP2_Lacioppa\TP2_Lacioppa\bin\Debug\TP2_Lacioppa.pdb
+C:\Users\Administrador\Desktop\TP2_Lacioppa-20190913T210742Z-001\TP2_Lacioppa\TP2_Lacioppa\obj\Debug\TP2_Lacioppa.csprojResolveAssemblyReference.cache
+C:\Users\Administrador\Desktop\TP2_Lacioppa-20190913T210742Z-001\TP2_Lacioppa\TP2_Lacioppa\obj\Debug\TP2_Lacioppa.AgregarArticuloNuevo.resources
+C:\Users\Administrador\Desktop\TP2_Lacioppa-20190913T210742Z-001\TP2_Lacioppa\TP2_Lacioppa\obj\Debug\TP2_Lacioppa.frmBuscarArticulo.resources
+C:\Users\Administrador\Desktop\TP2_Lacioppa-20190913T210742Z-001\TP2_Lacioppa\TP2_Lacioppa\obj\Debug\TP2_Lacioppa.frmBuscarnombre.resources
+C:\Users\Administrador\Desktop\TP2_Lacioppa-20190913T210742Z-001\TP2_Lacioppa\TP2_Lacioppa\obj\Debug\TP2_Lacioppa.frmEliminarArticulo.resources
+C:\Users\Administrador\Desktop\TP2_Lacioppa-20190913T210742Z-001\TP2_Lacioppa\TP2_Lacioppa\obj\Debug\TP2_Lacioppa.frmMenuPrincipal.resources
+C:\Users\Administrador\Desktop\TP2_Lacioppa-20190913T210742Z-001\TP2_Lacioppa\TP2_Lacioppa\obj\Debug\TP2_Lacioppa.frmModificarArticulo.resources
+C:\Users\Administrador\Desktop\TP2_Lacioppa-20190913T210742Z-001\TP2_Lacioppa\TP2_Lacioppa\obj\Debug\TP2_Lacioppa.MostrarTodosArticulos.resources
+C:\Users\Administrador\Desktop\TP2_Lacioppa-20190913T210742Z-001\TP2_Lacioppa\TP2_Lacioppa\obj\Debug\TP2_Lacioppa.Properties.Resources.resources
+C:\Users\Administrador\Desktop\TP2_Lacioppa-20190913T210742Z-001\TP2_Lacioppa\TP2_Lacioppa\obj\Debug\TP2_Lacioppa.csproj.GenerateResource.Cache
+C:\Users\Administrador\Desktop\TP2_Lacioppa-20190913T210742Z-001\TP2_Lacioppa\TP2_Lacioppa\obj\Debug\TP2_Lacioppa.csproj.CoreCompileInputs.cache
+C:\Users\Administrador\Desktop\TP2_Lacioppa-20190913T210742Z-001\TP2_Lacioppa\TP2_Lacioppa\obj\Debug\TP2_Lacioppa.exe
+C:\Users\Administrador\Desktop\TP2_Lacioppa-20190913T210742Z-001\TP2_Lacioppa\TP2_Lacioppa\obj\Debug\TP2_Lacioppa.pdb
+C:\Users\Ignacio\Desktop\FACULTAD 2019\PROG III 2019\TP2_Lacioppa-20190913T210742Z-001-20190914T183056Z-001\TP2_Lacioppa-20190913T210742Z-001\TP2_Lacioppa\TP2_Lacioppa\bin\Debug\TP2_Lacioppa.exe.config
+C:\Users\Ignacio\Desktop\FACULTAD 2019\PROG III 2019\TP2_Lacioppa-20190913T210742Z-001-20190914T183056Z-001\TP2_Lacioppa-20190913T210742Z-001\TP2_Lacioppa\TP2_Lacioppa\bin\Debug\TP2_Lacioppa.exe
+C:\Users\Ignacio\Desktop\FACULTAD 2019\PROG III 2019\TP2_Lacioppa-20190913T210742Z-001-20190914T183056Z-001\TP2_Lacioppa-20190913T210742Z-001\TP2_Lacioppa\TP2_Lacioppa\bin\Debug\TP2_Lacioppa.pdb
+C:\Users\Ignacio\Desktop\FACULTAD 2019\PROG III 2019\TP2_Lacioppa-20190913T210742Z-001-20190914T183056Z-001\TP2_Lacioppa-20190913T210742Z-001\TP2_Lacioppa\TP2_Lacioppa\obj\Debug\TP2_Lacioppa.csprojAssemblyReference.cache
+C:\Users\Ignacio\Desktop\FACULTAD 2019\PROG III 2019\TP2_Lacioppa-20190913T210742Z-001-20190914T183056Z-001\TP2_Lacioppa-20190913T210742Z-001\TP2_Lacioppa\TP2_Lacioppa\obj\Debug\TP2_Lacioppa.AgregarArticuloNuevo.resources
+C:\Users\Ignacio\Desktop\FACULTAD 2019\PROG III 2019\TP2_Lacioppa-20190913T210742Z-001-20190914T183056Z-001\TP2_Lacioppa-20190913T210742Z-001\TP2_Lacioppa\TP2_Lacioppa\obj\Debug\TP2_Lacioppa.frmBuscarArticulo.resources
+C:\Users\Ignacio\Desktop\FACULTAD 2019\PROG III 2019\TP2_Lacioppa-20190913T210742Z-001-20190914T183056Z-001\TP2_Lacioppa-20190913T210742Z-001\TP2_Lacioppa\TP2_Lacioppa\obj\Debug\TP2_Lacioppa.frmBuscarnombre.resources
+C:\Users\Ignacio\Desktop\FACULTAD 2019\PROG III 2019\TP2_Lacioppa-20190913T210742Z-001-20190914T183056Z-001\TP2_Lacioppa-20190913T210742Z-001\TP2_Lacioppa\TP2_Lacioppa\obj\Debug\TP2_Lacioppa.frmEliminarArticulo.resources
+C:\Users\Ignacio\Desktop\FACULTAD 2019\PROG III 2019\TP2_Lacioppa-20190913T210742Z-001-20190914T183056Z-001\TP2_Lacioppa-20190913T210742Z-001\TP2_Lacioppa\TP2_Lacioppa\obj\Debug\TP2_Lacioppa.frmMenuPrincipal.resources
+C:\Users\Ignacio\Desktop\FACULTAD 2019\PROG III 2019\TP2_Lacioppa-20190913T210742Z-001-20190914T183056Z-001\TP2_Lacioppa-20190913T210742Z-001\TP2_Lacioppa\TP2_Lacioppa\obj\Debug\TP2_Lacioppa.frmModificarArticulo.resources
+C:\Users\Ignacio\Desktop\FACULTAD 2019\PROG III 2019\TP2_Lacioppa-20190913T210742Z-001-20190914T183056Z-001\TP2_Lacioppa-20190913T210742Z-001\TP2_Lacioppa\TP2_Lacioppa\obj\Debug\TP2_Lacioppa.MostrarTodosArticulos.resources
+C:\Users\Ignacio\Desktop\FACULTAD 2019\PROG III 2019\TP2_Lacioppa-20190913T210742Z-001-20190914T183056Z-001\TP2_Lacioppa-20190913T210742Z-001\TP2_Lacioppa\TP2_Lacioppa\obj\Debug\TP2_Lacioppa.Properties.Resources.resources
+C:\Users\Ignacio\Desktop\FACULTAD 2019\PROG III 2019\TP2_Lacioppa-20190913T210742Z-001-20190914T183056Z-001\TP2_Lacioppa-20190913T210742Z-001\TP2_Lacioppa\TP2_Lacioppa\obj\Debug\TP2_Lacioppa.csproj.GenerateResource.cache
+C:\Users\Ignacio\Desktop\FACULTAD 2019\PROG III 2019\TP2_Lacioppa-20190913T210742Z-001-20190914T183056Z-001\TP2_Lacioppa-20190913T210742Z-001\TP2_Lacioppa\TP2_Lacioppa\obj\Debug\TP2_Lacioppa.csproj.CoreCompileInputs.cache
+C:\Users\Ignacio\Desktop\FACULTAD 2019\PROG III 2019\TP2_Lacioppa-20190913T210742Z-001-20190914T183056Z-001\TP2_Lacioppa-20190913T210742Z-001\TP2_Lacioppa\TP2_Lacioppa\obj\Debug\TP2_Lacioppa.exe
+C:\Users\Ignacio\Desktop\FACULTAD 2019\PROG III 2019\TP2_Lacioppa-20190913T210742Z-001-20190914T183056Z-001\TP2_Lacioppa-20190913T210742Z-001\TP2_Lacioppa\TP2_Lacioppa\obj\Debug\TP2_Lacioppa.pdb
